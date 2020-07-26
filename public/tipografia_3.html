@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tipografia</title>
+    <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/example.css">
+
+</head>
+<body>
+    
+    <div class="container">
+
+        <p>To write articles, essays, letters, etc., the text must be structured in paragraphs. Thus, the paragraph is defined as the grouping of phrases that express some idea or main thought and help in organizing the textual structure.
+        </p> <!--parágrafo padrão-->
+
+        <blockquote class="blockquote"> <!--parágrafo com blockquote destaca o paragráfo e muda a estrutura da fonte-->
+            <p>To write articles, essays, letters, etc., the text must be structured in paragraphs. Thus, the paragraph is defined as the grouping of phrases that express some idea or main thought and help in organizing the textual structure.
+            </p>
+        </blockquote>
+
+        <blockquote class="blockquote"> 
+            <p>To write articles, essays, letters, etc., the text must be structured in paragraphs. Thus, the paragraph is defined as the grouping of phrases that express some idea or main thought and help in organizing the textual structure.
+            </p>
+            <!--comando para o footer é: footer.blockquote-footer-->
+            <footer class="blockquote-footer">Evelin Marques</footer> <!--se usa o footer class para citações de autores e etc-->
+        </blockquote>
+
+        <blockquote class="blockquote"> 
+            <p>To write articles, essays, letters, etc., the text must be structured in paragraphs. Thus, the paragraph is defined as the grouping of phrases that express some idea or main thought and help in organizing the textual structure.
+            </p>
+            
+            <footer class="blockquote-footer">Evelin Marques <cite title="Instrutora">Instrutora</cite></footer> <!--usando o cite title faz a citação "Instrutora" em itálico-->
+            <!--se usa o footer para citações de autores e etc-->
+        </blockquote>
+
+        <blockquote class="blockquote text-center"> <!--blockquote text-center centraliza o texto-->
+            <p>To write articles, essays, letters, etc., the text must be structured in paragraphs. Thus, the paragraph is defined as the grouping of phrases that express some idea or main thought and help in organizing the textual structure.
+            </p>
+            
+            <footer class="blockquote-footer">Evelin Marques <cite title="Instrutora">Instrutora</cite></footer> 
+        </blockquote>
+
+        <blockquote class="blockquote text-right"> <!--blockquote text-right o texto fica alinhado a direita-->
+            <p>To write articles, essays, letters, etc., the text must be structured in paragraphs. Thus, the paragraph is defined as the grouping of phrases that express some idea or main thought and help in organizing the textual structure.
+            </p>
+            
+            <footer class="blockquote-footer">Evelin Marques <cite title="Instrutora">Instrutora</cite></footer> 
+        </blockquote>
+
+    </div>
+
+    <script src="node_modules/jquery/dist/jquery.min.js"></script>
+    <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+
+</body>
+</html>
