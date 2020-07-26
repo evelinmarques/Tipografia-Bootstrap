@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tipografia</title>
+    <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/example.css"> <!--para mudar cor, configure o css-->
+
+</head>
+<body>
+    
+    <div class="container">
+    <ul> <!--ul para lista-->
+        <li>Testando</li>
+        <li>Lista</li>
+        <li>Com</li>
+        <li>Bootstrap</li>
+    </ul>
+
+    <ul type="square"> <!--ul type square a lista fica com icone quadrado-->
+        <li>Testando</li>
+        <li>Lista</li>
+        <li>Com</li>
+        <li>Bootstrap</li>
+    </ul>
+
+    <ul type="circle"> <!--ul type circle para lista em circulos vazados-->
+        <li>Testando</li>
+        <li>Lista</li>
+        <li>Com</li>
+        <li>Bootstrap</li>
+    </ul>
+
+    <ul class="list-unstyled"> <!--ul class list-unstyled tira os circulos da lista-->
+        <li>Text is a set of linked words and phrases that allow interpretation</li>
+        <li>and convey a message. It is any work written in the original version </li>
+        <li>and that constitutes a book or a written document. A text is a </li>
+        <li>linguistic unit longer than the sentence.</li>
+    </ul>
+
+    <ul class="list-inline"> <!--list-inline separa na mesma linha-->
+        <li class="list-inline-item">Text is a set of linked words and phrases </li>
+        <li class="list-inline-item">and convey a message </li>
+        <li class="list-inline-item">and that constitutes  </li>
+        <li class="list-inline-item">linguistic unit longer than the sentence </li>
+    </ul>
+
+    <dl> <!--dl significa definition list e é utilizada para definir uma lista-->
+    <dt>Título</dt> <!--descrição em negrito-->
+    <dd>Text is a set of linked words and phrases that allow interpretation and convey a message. It is any work written in the original version and that constitutes a book or a written document. A text is a linguistic unit longer than the sentence.</dd>
+    </dl> <!--descrição da lista-->
+
+    <dl class="row"> <!--botar lista em coluna com flexbox-->
+        <!--a coluna está laranja porque no css está configurado assim-->
+        
+        <dt class="col-sm-3">Título</dt> <!--col-sm faz com que haja responsabilidade em dispositivos pequenos-->
+        <dd class="col-sm-9">Text is a set of linked words and phrases that allow interpretation and convey a message. It is any work written in the original version and that constitutes a book or a written document. A text is a linguistic unit longer than the sentence.</dd>
+
+        <dt class="col-sm-3">Título</dt> 
+        <dd class="col-sm-9">Text is a set of linked words and phrases that allow interpretation and convey a message. It is any work written in the original version and that constitutes a book or a written document. A text is a linguistic unit longer than the sentence.</dd>
+
+        <dt class="col-sm-3">Título</dt> 
+        <dd class="col-sm-9">Text is a set of linked words and phrases that allow interpretation and convey a message. It is any work written in the original version and that constitutes a book or a written document. A text is a linguistic unit longer than the sentence.</dd>
+        </dl> 
+
+    </div>
+
+    <script src="node_modules/jquery/dist/jquery.min.js"></script>
+    <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+
+</body>
+</html>
