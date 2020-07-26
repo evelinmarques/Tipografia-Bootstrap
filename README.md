@@ -2,7 +2,7 @@
  Este Repositório foi criado com o intuito de auxiliar estudos de tipografia no Bootstrap. 
 #### OBS: Esse README foi feito com carinho para leigos entenderem o conteúdo desse repositório 💖
 
-## O que é a tipografia do Bootstrap 🤔?
+## O que é Tipografia 🤔?
 
 Tipografia é a arte e o processo de criação na composição e impressão de um texto, assim como no design gráfico em geral, o objetivo principal da tipografia é dar ordem estrutural e forma à comunicação escrita. 
 
@@ -14,13 +14,13 @@ Se você parou aqui, provavelmente já ouviu falar de Bootstrap e esse repositó
 
 *se esse não for o caso e você não sabe instalar, relaxa! tem vários tutoriais no youtube, com certeza você vai achar um bem legal de como incrementar o bootstrap no seu projeto. Não irei me aprofundar pois, esse repositório é somente para algumas dicas de tipografia no bootstrap mas, sinta-se a vontade de entrar em contato comigo caso surja alguma dúvida.* 
 
-## Material disponibilizado 📚:
+## Material Disponibilizado 📚:
 
-### Parágrafo respeitando a margem do site
+### Parágrafo Respeitando a Margem do Site
 
 <img src="https://user-images.githubusercontent.com/56482367/88470519-961b1500-ced3-11ea-9e5a-09fd25b29616.PNG">
 
-### Parágrafo com a fonte suave e maior
+### Parágrafo Suave e Maior
 
 <img src="https://user-images.githubusercontent.com/56482367/88470545-0aee4f00-ced4-11ea-88de-1d413cddca46.PNG">
 
@@ -36,7 +36,7 @@ Se você parou aqui, provavelmente já ouviu falar de Bootstrap e esse repositó
 
 <img src="https://user-images.githubusercontent.com/56482367/88470663-96b4ab00-ced5-11ea-80a4-55ef92fc29fc.PNG">
 
-### Texto com letra inferior
+### Texto com Letra Inferior
 
 <img src="https://user-images.githubusercontent.com/56482367/88470667-a3d19a00-ced5-11ea-8090-d1b90b9562ff.PNG">
 
