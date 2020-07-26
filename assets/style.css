@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(212, 117, 54);
+}
+
+header {
+    margin: 2vh auto;
+}
+
+header, nav, main {
+    background-color: rgb(244, 244, 247);
+    min-height: 10vh;
+}
+
+nav, main {
+    min-height: 82vh;
+}
+
+
+@media (min-width: 576px) { 
+
+ }
+
+
+@media (min-width: 768px) { 
+
+ }
+
+
+@media (min-width: 992px) {
+
+ }
+
+
+@media (min-width: 1200px) { 
+
+}
