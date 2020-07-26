@@ -1,20 +1,20 @@
 # Tipografia do Bootstrap
  Este Repositório foi criado com o intuito de auxiliar estudos de tipografia no Bootstrap. 
-#### OBS: Esse README foi feito com carinho para leigos entenderem o conteúdo desse repositório ♥
+#### OBS: Esse README foi feito com carinho para leigos entenderem o conteúdo desse repositório 💖
 
-## O que é a tipografia do Bootstrap ?
+## O que é a tipografia do Bootstrap 🤔?
 
 Tipografia é a arte e o processo de criação na composição e impressão de um texto, assim como no design gráfico em geral, o objetivo principal da tipografia é dar ordem estrutural e forma à comunicação escrita. 
 
-## O que é Bootstrap ?
+## O que é Bootstrap 🤔?
 Bootstrap é um dos frameworks web que existem para melhorar ainda mais o design em um site, (usando HTML, CSS e JavaScript) assim como a sua tipografia. Ou seja, incrementando Bootstrap em um site simples, isso faz com que ele fique ainda mais agradável se você saber como usar.  
 
-## Primeiros Passos no Bootstrap: 
+## Primeiros Passos no Bootstrap 🚀: 
 Se você parou aqui, provavelmente já ouviu falar de Bootstrap e esse repositório despertou a sua curiosidade. Bem provável também que você já tenha o bootstrap instalado mas, ainda tem algumas dúvidas sobre a tipografia. 
 
 *se esse não for o caso e você não sabe instalar, relaxa! tem vários tutoriais no youtube, com certeza você vai achar um bem legal de como incrementar o bootstrap no seu projeto. Não irei me aprofundar pois, esse repositório é somente para algumas dicas de tipografia no bootstrap mas, sinta-se a vontade de entrar em contato comigo caso surja alguma dúvida.* 
 
-## Material disponibilizado:
+## Material disponibilizado 📚:
 
 ### Parágrafo respeitando a margem do site
 
@@ -52,6 +52,8 @@ Se você parou aqui, provavelmente já ouviu falar de Bootstrap e esse repositó
 
 <img src="https://user-images.githubusercontent.com/56482367/88470684-cc599400-ced5-11ea-921a-f757daf61ee7.PNG">
 
-OBS: Todos os arquivos contém comentários para auxiliar o estudo.
+OBS: Todos os arquivos contém comentários para auxiliar o estudo 📚
+
+## Em Construção 🚧
 
 Feito com ♥ por <a href="https://www.linkedin.com/in/evelinmarquess/">Évelin Marques</a> 👋
