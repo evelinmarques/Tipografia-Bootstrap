@@ -90,6 +90,4 @@ Se você parou aqui, provavelmente já ouviu falar de Bootstrap e esse repositó
 
 OBS: Todos os arquivos contém comentários para auxiliar o estudo. 📚
 
-## Em Construção 🚧
-
 Feito com ♥ por <a href="https://www.linkedin.com/in/evelinmarquess/">Évelin Marques</a> 👋
